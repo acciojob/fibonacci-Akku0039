@@ -1,4 +1,4 @@
-function fibonacci(num) {
+function fibonacci(n) {
 // your code here
      if (n <= 1)
         return n;
