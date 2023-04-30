@@ -1,8 +1,8 @@
-function fibonacci(n) {
+function fibonacci(num) {
 // your code here
-     if (n <= 1)
+     if (num <= 1)
         return n;
-    return fib(n-1) + fib(n-2);
+    return fib(num-1) + fib(num-2);
   
 }
 
