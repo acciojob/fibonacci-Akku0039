@@ -1,7 +1,7 @@
 function fibonacci(num) {
 // your code here
      if (num <= 1)
-        return n;
+        return num;
     return fib(num-1) + fib(num-2);
   
 }
